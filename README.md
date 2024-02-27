@@ -8,7 +8,6 @@
 
 <div gap='10px'>
   <img src="https://github-readme-stats.vercel.app/api?username=zissuuo&show_icons=true&theme=graywhite" height="140">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zissuuo&layout=compact" height="140">
 </div>
 
 <br>
