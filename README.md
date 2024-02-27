@@ -6,15 +6,19 @@
 
 📕 I am currently studying Data Analytics and Front-end. <br>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zissuuo&show_icons=true&theme=graywhite)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zissuuo&layout=compact&theme=swift)
+<div gap='10px'>
+  <img src="https://github-readme-stats.vercel.app/api?username=zissuuo&show_icons=true&theme=graywhite" height="140">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=zissuuo&layout=compact" height="140">
+</div>
 
+<br>
 
 #### ⚒️ Tech Stack
 <div gap='10px'>
   <img src="https://img.shields.io/badge/react-20232a.svg?style=flat&logo=react&logoColor=61DAFB" />
   <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=flat&logo=javascript&logoColor=20232a"/>
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat&logo=styled-components&logoColor=ffd35b"/>
+  <img src="https://img.shields.io/badge/flask-000000?style=flat&logo=flask&logoColor=white"/>
 </div>
 <div gap='10px'>
   <img src="https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54"/>
