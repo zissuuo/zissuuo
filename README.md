@@ -5,6 +5,6 @@
 
 
 🌱 I’m currently learning Data Analysis & FrontEnd & Product <br>
-⚡ Fun fact: Before I became interested in programming, I was a recruiter. <br>
+⚡ Fun fact: Before I became interested in programming, I worked as a recruiter for an IT company. <br>
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zissuuo&show_icons=true&theme=graywhite)
