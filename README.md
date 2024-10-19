@@ -4,7 +4,7 @@
 <a href="https://www.linkedin.com/in/jisu-kim-09055423b/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-252a2f?style=flat&logo=linkedin&logoColor=FFFFFF"/></a>
 
 
-📕 I am currently studying Data Analytics and Front-end. <br>
+📕 I am currently studying Product Planning and Data Analytics. <br>
 
 <div gap='10px'>
   <img src="https://github-readme-stats.vercel.app/api?username=zissuuo&show_icons=true&theme=graywhite" height="140">
